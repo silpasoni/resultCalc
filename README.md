@@ -1,0 +1,2 @@
+# resultCalc
+Junit assignment
